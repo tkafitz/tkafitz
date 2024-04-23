@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tkafitz
-- 👀 I’m interested in ...electronics and coding to build prijects for myself around the house.
+- 👀 I’m interested in ...electronics and coding to build projects for myself around the house.
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
